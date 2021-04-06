@@ -7,5 +7,7 @@ public class Example{
 		System.out.println("Update Branch2");
 		System.out.println("Update Branch3");
 		System.out.println("Update Branch4");
+		System.out.println("Suicide Squad");
+		System.out.println("Joker");
 	}
 }
